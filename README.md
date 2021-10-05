@@ -2,7 +2,7 @@
 A physics simulation of a lot of particles. Works only on windows (I think)
 Showcases vertex array usage and basic movement of camera view in sfml.
 
-Controls:
+Controls:  
 ASWD/rmb - move screen  
 ZX/mouse wheel - zoom screen (can go to negative numbers and flip)  
 E - pull particles  
